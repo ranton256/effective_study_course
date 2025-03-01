@@ -2,7 +2,9 @@
 
 Welcome to the Effective Study Course! This course is designed to help you improve your learning and memory skills. Whether you're a student, professional, or just someone looking to enhance their cognitive abilities, this course has something for everyone.
 
-This course is available online at <https://www.learnedmemory.com/course>.
+Go directly to the course at <https://learnedmemory-course.streamlit.app/>.
+
+More information about this course is available online at <https://www.learnedmemory.com/course>.
 
 See [learnedmemory.com](https://www.learnedmemory.com) for additional articles and tips for improving your learning and memory.
 
