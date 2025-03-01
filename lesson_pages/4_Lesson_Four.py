@@ -1,0 +1,3 @@
+from common import render_content_page
+
+render_content_page(__file__)

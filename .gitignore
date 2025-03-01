@@ -1,0 +1,8 @@
+secrets.toml
+__pycache__/
+etc_letsencrypt.tgz
+deploy/letsencrypt/
+esc_latest_image.tar
+esc_latest_image.tar.bz2
+.env
+.venv/
