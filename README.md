@@ -55,7 +55,15 @@ This course teaches practical methods for improving memory, learning efficiency,
    - Practical applications
    - Memory techniques for phone numbers
 
-7. **Review and Future Steps**
+7. **Managing Distractions and Attention**
+   - 3-Category priority system
+   - Task storytelling for working memory
+   - Grounding techniques for anxiety
+   - Pomodoro-style study sprints
+   - Environmental design
+   - Sleep, exercise, and energy management
+
+8. **Review and Future Steps**
    - Course review
    - Additional resources
    - Advanced techniques
