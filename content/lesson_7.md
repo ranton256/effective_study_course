@@ -1,5 +1,5 @@
 ---
-title: Review and Future Steps
+title: Managing Distractions and Attention
 
 ---
 
@@ -13,54 +13,158 @@ title: Review and Future Steps
 
 ![Macho Lion Rock Jazz](app/static/macho_lion_rock_jazz.png "Macho Lion Rock Jazz")
 
+---
 
-**Final Review Quiz**
+## Reclaim Your Attention: Practical Strategies for Learners 🎯
 
-1. What is the forgetting curve, and how does it relate to spaced repetition systems?
-2. What is the testing effect, and why is it important for long-term memory?
-3. How can interleaved retrieval practice help improve memory retention?
-4. What are some other ways to actively recall and use information to get a self-testing effect?
-5. What are the benefits of using a spaced repetition system for long-term learning and recall?
+Modern life is built to capture your attention. Humans evolved to treat new stimuli as important, but today that same instinct is exploited by constant notifications, algorithmic feeds, and digital noise. For students managing work, family, and coursework, this creates chronic distraction, stress, and difficulty sustaining focus.
 
-**Congratulations on sticking with this course!**
+The issue is not personal weakness. The **attention economy** deliberately competes for your focus, and neurodivergent traits such as ADHD, anxiety, or other executive-function challenges can make these pressures even harder to navigate. If you struggle to focus, or feel overwhelmed by the constant stream of distractions, you are experiencing a predictable response to an overloaded environment.
 
-Let’s briefly review what we have covered, and then we will close with some further resources for you to continue your journey.
+This lesson offers practical, evidence-informed strategies to help you study and work more effectively despite these challenges. These techniques benefit anyone facing executive-function demands, including knowledge workers, busy parents, and teenagers.
 
-We covered concepts of working memory, and how memory, focus, and environmental factors like sleep affect your cognitive abilities.
+---
 
-We covered some basic tips for reading for better comprehension as well as reading more quickly. The key point is to scan ahead for comprehension, use active recall to test your knowledge after reading a page, and remember the tips for getting your eyes to track faster so that you can read more quickly.
+## Quick-Glance Summary of Core Strategies 📋
 
-We went through the Method of Loci technique and built a memory palace so that you can use visuaspatial memory to improve your recall.
+| Strategy | Quick Summary |
+|----------|---------------|
+| **1. 3-Category Priorities** | Label tasks as *Must*, *Should*, or *Nice-to-do*. Do all *Must* first. |
+| **2. Task Story** | Narrate your steps before starting, then follow the story. |
+| **3. 3×3 Grounding** | Name three things you see, breathe slowly after each. |
+| **4. Brief Mindfulness** | 3–5 minutes focusing on breath, gently returning when distracted. |
+| **5. Pomodoro Sprints** | 25 minutes focused work, 5-minute break, repeat. |
+| **6. Low-Distraction Space** | Face a blank wall, clear desk, use app blockers. |
+| **7. Weekly Exercise** | ~150 min/week moderate activity, preferably earlier in day. |
+| **8. Protect Sleep** | Consistent schedule, limit screens/caffeine before bed. |
+| **9. Track Energy** | Budget your energy; high-demand tasks when energy is highest. |
+| **10. Daily Routine** | Combine all strategies into a simple daily flow. |
 
-We learned about the rhyming peg technique for memorizing lists. An additional peg system you can learn is the alphabet peg system covered in [How to Create Alphabet Peg Lists | Art of Memory](https://artofmemory.com/blog/alphabet-peg-lists/) 
+---
 
-We talked about deliberate difficulty, the forgetting curve, active recall, interleaved practice, and how to practically integrate the implications of these into a spaced repetition system (SRS) by hand or with software. 
+## Core Daily Strategies
 
-Lastly, we covered the major mnemonic system for remembering numbers.  This is a system you have to invest in up front a bit, but it pays off fairly quickly. An alternative to the major system is the [Dominic system](https://en.wikipedia.org/wiki/Dominic_system) 
+### 1. Prioritize with the 3-Category List ✅
 
-Some additional techniques we did not go into that I would recommend if you want to go farther are linking and the PAO system.
+Each morning, list all tasks for the day (study, work, life):
+1. Sort them into three columns: *Must do*, *Should do*, *Nice-to-do*
+2. Complete all *Must* items first, then *Should*, then *Nice-to-do* if time/energy remains
 
+**Why it works:** Simple categories reduce overwhelm and guide attention to the highest-impact tasks. This is especially helpful when planning and prioritization feel difficult.
 
+### 2. Tell Yourself the Story of the Task 📖
 
-* Linking - [https://en.wikipedia.org/wiki/Mnemonic_link_system](https://en.wikipedia.org/wiki/Mnemonic_link_system)
-* The Person-Action-Object (PAO) system, [Person-Action-Object (PAO) System | Art of Memory](https://artofmemory.com/blog/pao-system/) 
+1. Before starting, briefly narrate the steps out loud or in writing (e.g., "Open the PDF, skim headings, then take five bullet notes.")
+2. Visualize yourself moving through those steps in your actual environment
+3. When distracted, return to the story and re-locate which step you are on
 
-I also highly recommend the book _[Moonwalking with Einstein](https://www.amazon.com/Moonwalking-Einstein-Science-Remembering-Everything/dp/0143120530)_ by Joshua Foer (2012). It is both a fun book as well as having enough information on the memory techniques to actually try them out.
+**Why it works:** Task "storytelling" supports working memory and reduces mid-task confusion—connecting directly to what we learned about working memory in Lesson 1.
 
-To help you remember the concepts and information we have here, you can download our
+### 3. Use the 3×3 Grounding Method for Anxiety 🧘
 
-[10 Concepts for effective learning Infographic](https://www.learnedmemory.com/ten_concepts_for_effective_learning.pdf) which is suitable for printing if you want to pin it up in your work or study area.
+1. Pause and identify three things you can see; name each slowly
+2. Take one slow breath after naming each item
+3. If anxiety remains high, extend to sounds or sensations (three things you can hear or feel)
 
+**Why it works:** Brief sensory-based grounding shifts attention from ruminative thoughts to present input, helping regulate anxiety without suppressing emotion.
 
-![10 concepts for effective learning Infographic](app/static/ten_concepts_for_effective_learning.png "10 concepts for effective learning Infographic")
+### 4. Brief Mindfulness for Focus 🧠
 
+1. Set a timer for 3–5 minutes
+2. Sit comfortably and focus on breathing or a neutral body sensation
+3. When the mind wanders, gently return attention to the breath each time
 
+**Why it works:** Mindfulness-based interventions can produce small-to-moderate improvements in attention and everyday functioning, especially as part of a broader approach.
 
-We hope that you have found the course material informative and engaging. If you have any feedback or suggestions for improvement, please share them with us. Your input is invaluable in helping us enhance the course and provide a better learning experience for future participants.
+### 5. Pomodoro-Style Study Sprints ⏱️
 
-If you found this useful, please refer a friend to our site so they can take the course as well.
+1. Choose a single, clearly defined task (e.g., "Summarize section 2 of the article")
+2. Work for 25 minutes with notifications and unrelated tabs closed
+3. Take a 5-minute break; repeat 3–4 cycles, then take a longer break
 
+**Why it works:** Short, timed intervals with breaks reduce the need for prolonged sustained attention and help initiate tasks and tolerate boredom. This pairs well with the spaced repetition concepts from Lesson 5.
+
+### 6. Environmental Design to Cut Distractions 🏠
+
+1. Face your desk toward a low-stimulus area (e.g., a blank wall)
+2. Keep only the current task's materials visible; put everything else out of sight
+3. Use website/app blockers and do-not-disturb modes during study sprints
+
+**Why it works:** Reducing visual and digital stimuli lowers load on attention and working memory, which benefits demanding study tasks like those using the memory techniques we've learned.
+
+### 7. Exercise to Support Sleep, Focus, and Mood 🏃
+
+1. Aim for at least 150 minutes per week of moderate-to-vigorous physical activity
+2. Prefer earlier-day exercise if sleep is a concern
+3. Include some outdoor movement for added stress relief
+
+**Why it works:** Research suggests that higher levels of physical activity are associated with fewer sleep difficulties and may support focus and quality of life.
+
+### 8. Protect Sleep and Daily Rhythms 😴
+
+1. Keep a consistent sleep–wake schedule, including weekends
+2. Avoid heavy screens, caffeine, and intense work in the last hour before bed
+3. Treat sleep problems as a central target, not a side issue
+
+**Why it works:** Sleep problems are linked to increased inattention and daytime fatigue. Remember from Lesson 1 how sleep affects memory consolidation and cognitive performance.
+
+### 9. Track Energy ("Spoons") and Plan Accordingly ⚡
+
+1. View energy as a limited budget across focus, sensory load, social interaction, and physical effort
+2. Assign rough "costs" (e.g., 1–5 units) to common tasks (lectures, reading, meetings)
+3. Schedule high-cost study tasks when energy is highest and cluster low-cost tasks later; insert deliberate recovery breaks
+
+**Why it works:** Energy-budgeting helps anticipate depletion, prevent burnout, and make realistic daily plans.
+
+### 10. Combine These into a Simple Daily Routine 📅
+
+1. **Morning (5–10 min):** Make the 3-category list and pick one "Must" task for your first Pomodoro block
+2. **Before each study block (1–2 min):** Tell yourself the story of the task and, if anxious, do one 3×3 grounding round
+3. **During work:** Use Pomodoro sprints with environmental controls (blockers, clear desk)
+4. **Across the day:** Track energy and adjust expectations; insert movement and recovery breaks
+5. **Evening:** Light exercise if needed, followed by a wind-down routine that protects sleep
+
+---
+
+## Connecting to Memory Techniques 🔗
+
+These attention management strategies work hand-in-hand with the memory techniques you've learned:
+
+- **Method of Loci** (Lesson 3) requires focused visualization—use a distraction-free environment
+- **Peg Systems** (Lesson 4) need working memory—support it with task storytelling
+- **Spaced Repetition** (Lesson 5) works best with consistent daily routines
+- **Major System** (Lesson 6) encoding needs concentration—Pomodoro sprints help
+
+The best memory techniques in the world won't help if you can't focus long enough to use them!
+
+---
+
+## Key Takeaways 📝
+
+1. **Distraction is environmental, not personal failure** — design your space and habits accordingly
+2. **Simple prioritization beats complex systems** — Must/Should/Nice-to-do is enough
+3. **Brief interventions work** — 3×3 grounding and 3-5 minute mindfulness are practical
+4. **Time-boxing reduces resistance** — 25-minute sprints make starting easier
+5. **Sleep, exercise, and energy management are foundational** — not optional extras
+
+---
+
+## Try It Now! 🎯
+
+Before moving to the final review lesson, try this quick exercise:
+
+1. Write down your three *Must do* tasks for tomorrow
+2. Pick one and write a 2-3 sentence "story" of how you'll complete it
+3. Identify where you'll work on it and what distractions you'll block
+
+---
 
 ### References
 
-Foer, J. (2012). _Moonwalking with Einstein: The Art and Science of Remembering Everything_. Penguin.
+Boissiere, P. (2018). *Thriving with adult ADHD: Skills to strengthen executive functioning*. Callisto Publishing LLC.
+
+Cairncross, M., & Miller, C. J. (2020). The effectiveness of mindfulness-based therapies for ADHD: A meta-analytic review. *Journal of Attention Disorders, 24*(5), 627–643.
+
+Kim, H.-H., & Jung, N.-H. (2025). Mindfulness-based interventions for adults with ADHD: A systematic review and meta-analysis. *Medicine, 104*(37), e44308.
+
+Zhu, F., et al. (2023). The association between physical activity and sleep in adult ADHD patients with stimulant medication use. *Frontiers in Psychiatry, 14*, 1236636.
